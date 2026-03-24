@@ -3,8 +3,7 @@ layout: page
 permalink: /presentations/
 title: presentations
 description: Course materials, schedules, and resources for classes taught.
-nav: true
-nav_order: 6
+nav: false
 calendar: true
 ---
 
