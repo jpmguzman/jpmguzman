@@ -4,7 +4,7 @@ cv:
   email: jpm.guzman@yahoo.com
   location: Manila, Philippines
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: A researcher in the fields of biotechnology, microbiology, and molecular biology specializing in fish health management
 
   social_networks:
     - network: X
@@ -19,13 +19,13 @@ cv:
       - institution: Tokyo University of Marine Science and Technology
         location: Tokyo, Japan
         url: https://www.kaiyodai.ac.jp/
-        area: Genome Science
+        area: Applied Marine Biosciences (Genome Science)
         studyType: PhD
         start_date: 2022
         end_date: 2025
         highlights:
-          - Description 1.
-          - Description 2.
+          - Supervised by Prof. Ikuo Hirono, PhD
+          - Effects of lactic acid bacteria (LAB) on the immune response and resistance of White leg shrimp Penaeus vannamei against diseases 
 
       - institution: University of Santo Tomas
         location: Manila, Philippines
@@ -35,19 +35,19 @@ cv:
         start_date: 2017
         end_date: 2020
         highlights:
-          - Description 1.
-          - Description 2.
+          - Supervised by Prof. Mary Beth Maningas, PhD
+          - Inhibition of quorum sensing of shrimp pathogen Vibrio harveyi by Piper betle l. leaf extracts and their potential as feed supplements
           
       - institution: Pamantasan ng Lungsod ng Maynila
         location: Manila, Philippines
         url: https://www.plm.edu.ph/
         area: Biology
-        studyType: MSc
+        studyType: BSc
         start_date: 2012
         end_date: 2016
         highlights:
-          - Description 1.
-          - Description 2.
+          - Supervised by Prof. Larry V. Padilla, MSc
+          - Anti-quorum sensing potential of Malakatmon (Tetracera scandens) and Lumbang (Aleurites moluccana) leaf extracts against Chromobacterium violaceum
           
     Experience:
       - company: Industrial Technology Development Institute
@@ -56,99 +56,53 @@ cv:
         start_date: 2017
         end_date: 2026
         summary: Environment and Biotechnology Division
-          - Description 1.
-          - Description 2.
+          - Conducted R&D activities on food and environmental microbiology; diagnostic tools for pathogens; and veterinary vaccines.
 
       - company: Pamantasan ng Lungsod ng Maynila
-        position: Lecturer III
+        position: Part-time Lecturer III 
         location: Manila, Philippines
         start_date: 2021
         end_date: 2022
         highlights:
-          - Description 1.
-          - Description 2.
-
+          - Taught undergraduate courses at the Biology Department of the College of Science.
+          
       - company: Sentrotek Corporation
         position: Microbiologist
         location: Mandaluyong City, Philippines
         start_date: 2016
         end_date: 2016
-
-    Internships and Fellowships:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Responsible for the microbiological analyses of various matrices such as food, water, pharmaceuticals, and environmental samples, among others.
+          
+    Internships and Fellowships:
+      - company: World Organization for Animal Health - Regional Representative for the Asia-Pacific
+        location: Tokyo, Japan
+        start_date: 2024
+        end_date: 2024
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - company: Japan Fisheries Research and Education Agency
+        location: Mie, Japan
+        start_date: 2023
+        end_date: 2023
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - company: Global Young Scientists Summit
+        location: Singapore
+        start_date: 2021
+        end_date: 2021
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - company: National Center for Genetic Engineering and Biotechnology
+        location: Bangkok, Thailand
+        start_date: 2019
+        end_date: 2019
+        
+      - company: Industrial Technology Development Institute
+        location: Taguig City, Philippines
+        start_date: 2015
+        end_date: 2015
 
     Languages:
-      - name: German
+      - name: Filipino
         summary: "Native speaker"
 
       - name: English
         summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
